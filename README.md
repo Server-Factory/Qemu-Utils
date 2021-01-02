@@ -1,6 +1,6 @@
 # Server Factory Qemu Utils
 
-Qemu utils for [Server Factory](https://github.com/milos85vasic/Server-Factory).
+Qemu utils for [Server Factory](https://github.com/Server-Factory/Core-Framework).
 
 ## Notes
 
