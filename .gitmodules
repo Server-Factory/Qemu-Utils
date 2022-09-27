@@ -1,0 +1,3 @@
+[submodule "Upstreamable"]
+	path = Upstreamable
+	url = https://github.com/red-elf/Upstreamable
